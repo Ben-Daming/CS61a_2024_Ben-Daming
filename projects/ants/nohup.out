@@ -1,0 +1,25 @@
+
+******************** Ants vs SomeBees GUI ********************
+
+Instructions: 
+  Hit Control + C to stop running this file
+  Refresh webpage to start new game
+  Game available at: http://127.0.0.1:31415/
+
+Traceback (most recent call last):
+  File "/home/liuyoudu/Documents/CS61A/projects/ants/libs/flask_socketio/__init__.py", line 640, in run
+    raise RuntimeError('The Werkzeug web server is not '
+RuntimeError: The Werkzeug web server is not designed to run in production. Pass allow_unsafe_werkzeug=True to the run() method to disable this error.
+*** Can not access port 31415 ***
+
+******************** Ants vs SomeBees GUI ********************
+
+Instructions: 
+  Hit Control + C to stop running this file
+  Refresh webpage to start new game
+  Game available at: http://127.0.0.1:8000/
+
+Traceback (most recent call last):
+  File "/home/liuyoudu/Documents/CS61A/projects/ants/libs/flask_socketio/__init__.py", line 640, in run
+    raise RuntimeError('The Werkzeug web server is not '
+RuntimeError: The Werkzeug web server is not designed to run in production. Pass allow_unsafe_werkzeug=True to the run() method to disable this error.
